@@ -1,9 +1,9 @@
 import React from 'react'
-import dashboardicon from './crmimage/dashboardicon.png'
-import crmimg2  from './crmimage/crmimg2.png'
-import icon3 from './crmimage/icon-wrapper.png'
-import dashmainimg from './crmimage/dashmainimg.png'
-import './App.css'
+import dashboardicon from '../crmimage/dashboardicon.png'
+import crmimg2  from '../crmimage/crmimg2.png'
+import icon3 from '../crmimage/icon-wrapper.png'
+import dashmainimg from '../crmimage/dashmainimg.png'
+import '../App.css'
 const SideNavbar = () => {
     return (
         <div>

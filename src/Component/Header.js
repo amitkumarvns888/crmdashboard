@@ -1,6 +1,6 @@
 import React, { Component, useState } from 'react'
-import Avatar from './crmimage/Avatar.png'
-import profile from './crmimage/profile.png'
+import Avatar from '../crmimage/Avatar.png'
+import profile from '../crmimage/profile.png'
  const Header=()=> {
 const [user,setUser]=useState("Himanshu Gupta")
         return (

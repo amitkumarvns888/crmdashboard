@@ -3,7 +3,7 @@ import Header from './Header'
 import SideNavbar from './SideNavbar'
 import Footer from './Footer'
 import { Card, Button } from 'react-bootstrap';
-import Bootstpcard from './card/Bootstpcard';
+import Bootstpcard from './Bootstpcard';
 
 const Dashboard = () => {
     return (
