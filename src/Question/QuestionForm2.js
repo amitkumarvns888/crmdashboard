@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageCompo from '../ImageCompo'
+import ImageCompo from './ImageCompo'
 import { Form, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
